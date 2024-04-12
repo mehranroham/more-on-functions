@@ -117,3 +117,5 @@ const showResult = (message, result) => {
 
 combined(showResult.bind(this, 'adding'), 'add', 1, 2, -6, 5, 2, 80, 13, -33);
 combined(showResult.bind(this, 'subtracting'), 'subtract', 3, 4, 5);
+
+// test comment for pull
